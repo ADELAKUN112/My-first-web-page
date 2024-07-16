@@ -1,0 +1,16 @@
+body{
+  font-family: Times New Roman;
+}
+.foot{
+  margin-top:50px;
+  margin-left: 10px;
+}
+.wow{
+  text-align: justify;
+}
+nav{
+  line-height: 40px;
+}
+main{
+  line-height: 25px;
+}
